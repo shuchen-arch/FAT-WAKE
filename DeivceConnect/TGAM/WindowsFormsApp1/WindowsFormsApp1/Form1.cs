@@ -101,7 +101,7 @@ namespace WindowsFormsApp1
                 }
                 if (tgParser.ParsedData[i].ContainsKey("Raw"))
                 {
-                    Console.WriteLine("Raw: " + tgParser.ParsedData[i]["Raw"]);
+                  //  Console.WriteLine("Raw: " + tgParser.ParsedData[i]["Raw"]);
 
                     FileStream F = new FileStream("TGMARaw.txt", FileMode.Append, FileAccess.Write);
                     StreamWriter writer = new StreamWriter(F);

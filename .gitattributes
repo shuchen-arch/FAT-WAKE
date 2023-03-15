@@ -14,3 +14,15 @@ FAT_WAK_data/umindsleep/FAT11.csv filter=lfs diff=lfs merge=lfs -text
 FAT_WAK_data/umindsleep/WAK09.csv filter=lfs diff=lfs merge=lfs -text
 FAT_WAK_data/umindsleep/WAK10.csv filter=lfs diff=lfs merge=lfs -text
 FAT_WAK_data/umindsleep/ filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_04_WAK.txt filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_06_FAT.txt filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_06_WAK.txt filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_09_WAK.txt filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_12_FAT.txt filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_12_WAK.txt filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_04_FAT.txt filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_08_FAT.txt filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_08_WAK.txt filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_09_FAT.txt filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_11_FAT.txt filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/UmindSleep_11_WAK.txt filter=lfs diff=lfs merge=lfs -text

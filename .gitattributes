@@ -1,3 +1,16 @@
 version https://git-lfs.github.com/spec/v1
 oid sha256:722bb4e525bde7bb9af3e79b4f992fe177c30c1a0d68754981fa9dbf3d96eff9
 size 307
+[[:space:]]FAT_WAK_data/umindsleep/ filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/FAT02.csv filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/FAT09.csv filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/WAK01.csv filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/WAK02.csv filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/WAK06.csv filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/FAT01.csv filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/FAT06.csv filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/FAT10.csv filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/FAT11.csv filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/WAK09.csv filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/WAK10.csv filter=lfs diff=lfs merge=lfs -text
+FAT_WAK_data/umindsleep/ filter=lfs diff=lfs merge=lfs -text
